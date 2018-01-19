@@ -1,3 +1,4 @@
 var playlist = {
-  name: 
+  name: "Led Zeppelin"
+  song: "Stairway to Heaven"
 }
