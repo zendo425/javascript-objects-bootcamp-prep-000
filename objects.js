@@ -3,7 +3,7 @@ var playlist = {
   song_name: "Stairway to Heaven"
 };
 
-function updatePlaylist(playlist, artist, song_name) {
+function updatePlaylist(playlist, artist_name, song_name) {
   playlist[artist] = song_title;
   return playlist;
   
