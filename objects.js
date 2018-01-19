@@ -7,4 +7,6 @@ function updatePlaylist(playlist, artist_name, song_name) {
   playlist[artist_name] = song_name;
   return playlist;
 }
+
+delete.playlist[1];
   
