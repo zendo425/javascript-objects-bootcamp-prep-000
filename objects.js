@@ -3,4 +3,4 @@ var playlist = {
   song: "Stairway to Heaven"
 };
 
-updatePlaylist 
+function updatePlaylist = 
